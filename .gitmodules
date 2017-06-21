@@ -1,0 +1,18 @@
+[submodule "Solvents/vof_area_correlation"]
+	path = Solvents/vof_area_correlation
+	url = git@github.com:CCSI-Toolset/vof_area_correlation.git
+[submodule "Solvents/WWC"]
+	path = Solvents/WWC
+	url = git@github.com:CCSI-Toolset/WWC.git
+[submodule "Sorbents/1mw_cfd"]
+	path = Sorbents/1mw_cfd
+	url = git@github.com:CCSI-Toolset/1mw_cfd.git
+[submodule "Sorbents/filtered_models"]
+	path = Sorbents/filtered_models
+	url = git@github.com:CCSI-Toolset/filtered_models.git
+[submodule "Sorbents/attrition"]
+	path = Sorbents/attrition
+	url = git@github.com:CCSI-Toolset/attrition.git
+[submodule "Sorbents/Pulverization"]
+	path = Sorbents/Pulverization
+	url = git@github.com:CCSI-Toolset/Pulverization.git
