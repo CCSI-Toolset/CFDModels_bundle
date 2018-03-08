@@ -1,6 +1,6 @@
 # CFDModels Bundle
 
-This is a convience bundle containing the following CCSI Toolset products:
+This is a convenience bundle containing the following CCSI Toolset products:
 
 **Solvents:**
 - [VOF Wetted Surface](../../../vof_area_correlation)
